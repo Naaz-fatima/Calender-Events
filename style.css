@@ -1,0 +1,27 @@
+
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Merriweather', serif;
+}
+.hero {
+    width: 80;
+    height: 80%;
+    background-color: linear-gradient(45deg, #6ac1c5, #bdaff5);
+    position: relative;
+}
+#calender{
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+
+}
